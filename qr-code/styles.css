@@ -4,9 +4,10 @@ body {
     background: hsl(212, 45%, 89%);
 }
 
-.container {
+.contenedor {
     background: white;
     text-align: center;
+    margin: auto;
     margin-top: 10%;
     width: 17%;
     padding: 15px;
